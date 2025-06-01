@@ -1,3 +1,4 @@
+Project Page: https://kaankocaturkmen.github.io/Product-Landing-Page-Template/
 # Personalized Product Landing Page
 
 This project is a responsive and modern landing page created for a product personalization campaign. It was designed and developed as part of a commercial project at the company I currently work for. The page includes interactive elements and a clean user experience to improve customer engagement and conversion.
